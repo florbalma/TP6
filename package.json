@@ -1,0 +1,32 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/core": "^2.16.0",
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "@fontsource/roboto": "^4.5.8",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/pickers": "^3.3.10",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.3",
+    "@syncfusion/ej2-react-dropdowns": "^21.2.3",
+    "@types/react": "^18.2.5",
+    "@types/react-dom": "^18.2.3",
+    "prop-types": "^15.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactstrap": "^9.1.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
